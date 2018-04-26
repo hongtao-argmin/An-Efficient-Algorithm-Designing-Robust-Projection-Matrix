@@ -1,7 +1,6 @@
 An Efficient Algorithm for Designing Projection Matrix in Compressive Sensing Based on Alternating Optimization
 
-We publish our code for the main algorithm shown in the following paper:
-''An Efficient Algorithm for Designing Projection Matrix in Compressive Sensing Based on Alternating Optimization''. 
+We publish our code for the main algorithm shown in the paper ''An Efficient Algorithm for Designing Projection Matrix in Compressive Sensing Based on Alternating Optimization''. 
 
 In order to run this function, you have to download the Software minFunc through https://www.cs.ubc.ca/~schmidtm/Software/minFunc.html.
 
