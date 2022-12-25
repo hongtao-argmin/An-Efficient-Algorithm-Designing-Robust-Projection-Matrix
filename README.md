@@ -10,3 +10,4 @@ A novel technique to address the similar problems mentioned in this paper is giv
 "An efficient method for robust projection matrix design" and you can find the code in this paper via https://github.com/happyhongt/An-efficient-method-for-robust-projection-matrix-design/blob/master/README.md.
 
 
+https://hongtao-argmin.github.io
